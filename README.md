@@ -2,7 +2,7 @@ Bike Rider Detection and Tracking Using YOLO
 =========================================
 
 A computer vision project focused on bike rider detection, tracking, counting, and traffic-flow visualisation at congested intersections.
-Overview
+
 
 --------
 
